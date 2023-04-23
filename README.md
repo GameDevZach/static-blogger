@@ -1,4 +1,4 @@
-#GameDevZach's Blog
+<h2>GameDevZach's Blog</h2>
 
 _A simple static blog for funs._
 

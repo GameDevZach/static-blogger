@@ -1,6 +1,7 @@
 ---
 title: "GitHub Pages with Jekyll"
 date: 2023-03-09
+tags: github jekyll web
 ---
 Quick notes from following the GitHub Pages tutorial.
 
@@ -17,5 +18,6 @@ All fascinating stuff. Let's move on.
 
 This here is a "blog post", but I wonder if it's how all Jekyll pages work. This post is created by adding a markdown file in the \_posts folder, with a name like "YYYY-MM-DD-title.md" then they have the gall to tell you to write the date and title _again_ in Frontmatter. Then you can add markdown to your hearts content.
 
-
+Time to RTFM.
+[Useful Jekyll Docs](https://jekyllrb.com/docs/posts/)
 
